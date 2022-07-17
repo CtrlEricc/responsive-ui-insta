@@ -1,16 +1,7 @@
-# insta_web
+# Responsive UI Instagram
 
-A new Flutter project.
+A responsive interface based on Instagram App/Website. It was used Responsive Framework and Constrained Boxes.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/19862234/179401469-981ef324-1eb7-4565-a1d3-bd8232bfb5fa.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
